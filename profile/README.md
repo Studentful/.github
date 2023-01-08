@@ -11,11 +11,13 @@
 <p>Introduction here.</p>
 
 <h3 align="center">⭐ Team members ⭐</h3>
+<br>
 <table align="center">
   <tr align="center">
     <td>
       <a href="https://github.com/smg6135" target="_blank"><img src="https://avatars.githubusercontent.com/u/65800143?v=4" alt="smg6135" width="140" height="140" /></a>
     </td>
+    <td>
       <a href="https://github.com/IlKoKaIl" target="_blank"><img src="https://avatars.githubusercontent.com/u/70954349?v=4" alt="thisisomar" width="140" height="140" /></a>
     </td>
   <tr align="center">
