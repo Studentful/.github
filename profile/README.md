@@ -5,13 +5,13 @@
   <br>
   Student-full
   <br>
+  for students, by students
 </h1>
 
 <h1>🐱‍🐉 Introduction</h1>
 <p>Introduction here.</p>
 
 <h3 align="center">⭐ Team members ⭐</h3>
-<br>
 <table align="center">
   <tr align="center">
     <td>
