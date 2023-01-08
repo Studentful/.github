@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://www.notion.so/Studentfull-Hub-cc372028c41f4ddab5d3f7df228b2c51"><img src="\assets\temp_pic.jpeg"  width="200"></a>
   <br>
   Student-full
   <br>
