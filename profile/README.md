@@ -20,7 +20,7 @@
   <tr align="center">
     <td>
       <b><p>Mingon Song</p></b>
-      <a href="https://github.com/smg6135" target="_blank"><img src="https://img.shields.io/badge/-ShernanJ-%2325222E?style=flat-square&logo=github" alt="smg613" /></a>
+      <a href="https://github.com/smg6135" target="_blank"><img src="https://img.shields.io/badge/-smg6135-%2325222E?style=flat-square&logo=github" alt="smg613" /></a>
     </td>
   </tr>
 </table>
